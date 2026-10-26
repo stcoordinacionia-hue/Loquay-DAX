@@ -1,0 +1,6 @@
+1. Descomprima este ZIP.
+2. En GitHub Loquay-DAX seleccione Add file > Upload files.
+3. Arrastre index.html, .nojekyll, la carpeta imagenes y descargar-todas-las-imagenes.zip. NO suba este archivo INSTRUCCIONES.txt si no lo desea.
+4. Pulse Commit changes.
+5. Settings > Pages > Source: Deploy from a branch > main > /(root) > Save.
+6. La pagina sera https://stcoordinacionia-hue.github.io/Loquay-DAX/
